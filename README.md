@@ -33,7 +33,9 @@ I'm growing into a developer who never stops learning, grows with others, and us
 - Samsung SW·AI academy For Youth [2024.06 ~ 2025.07]
 
 <h3> 🍅 Blog </h3>
-- Blog: [블로그 바로가기](https://velog.io/@seorink/posts)
+<span>- Blog:</span>
+<a href="https://velog.io/@seorink/posts" target="_blank">김서린의 velog</a>
+
 
 </div>
 <br><br>
