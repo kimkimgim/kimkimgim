@@ -15,7 +15,7 @@ ai를 통해 더 나은 삶을 만들어 갈 수 있는 개발자가 되고자 �
 
 <br><br>
 Hi! my name is Seorin Kim.  
-I'm growing into a developer who never stops learning, grows with others, and uses AI to make life a little better.
+I'm growing into a developer who never stops learning, grows with others and uses AI to make life a little better.
 </div>
 
 ---
