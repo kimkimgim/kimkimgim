@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=auto&text=AI%20Developer&section=header&reversal=false&textBg=false">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=auto&text=AI%20Engineer">
 </div>
 
 <br>
