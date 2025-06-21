@@ -41,10 +41,9 @@ I'm growing into a developer who never stops learning, grows with others and use
 <br><br>
 
 <h2 align=center> 🍅 Github Analytics </h2>
-
-  <div href="https://git.io/streak-stats" align=center>
+<p align="center">
+  <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=kimkimgim&theme=vue" alt="GitHub Streak" />
-  </div>
-
-
+  </a>
+</p>
 
