@@ -46,5 +46,7 @@ I'm growing into a developer who never stops learning, grows with others and use
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=kimkimgim&theme=vue" alt="GitHub Streak" />
   </a>
+  <a href="https://github.com/kimkimgim"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkimgim&layout=compact&theme=nord&hide_border=true" />
+  </a> 
 </p>
 
