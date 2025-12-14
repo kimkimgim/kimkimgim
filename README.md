@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=auto&text=AI%20Engineer">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=auto&text=SW%20Engineer">
 </div>
 
 <br>
@@ -8,7 +8,7 @@
 <h1>김서린</h1>
 <br>
   
-안녕하세요 성장하고 있는 AI 개발자, 김서린이라고 합니다.
+안녕하세요 성장하고 있는 SW 개발자, 김서린이라고 합니다.
 <br>
 배움을 멈추지 않고, 함께 개선해 나아가며,  
 ai를 통해 더 나은 삶을 만들어 갈 수 있는 개발자가 되고자 노력합니다.
