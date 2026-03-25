@@ -31,7 +31,7 @@ I'm growing into a developer who never stops learning, grows with others and use
 
 
 <h3>🍅 Experience</h3>
-- Physical AI Robotics Engineering Course, XYZ Academy [2025.11 ~ 2026.01]  
+- Physical AI Robotics Engineering Course, XYZ Academy [2025.11 ~ 2026.01]<br>
 - Samsung SW·AI academy For Youth [2024.06 ~ 2025.07]
 
 <h3> 🍅 Blog </h3>
